@@ -1,0 +1,25 @@
+/* pages/qq/qq.wxss */
+.logo{
+width: 250rpx;
+height: 250rpx;
+border-radius: 50%;
+margin-left: 200rpx
+}
+.qq{
+  margin: 50rpx
+}
+.nana{
+  font-size: 35rpx;
+  margin-left: 50rpx
+}
+.haha{
+  font-size: 30rpx;
+  margin-left: 80rpx;
+  color: gray
+}
+.lala{
+  font-size:28rpx;
+  margin-left: 80rpx;
+  color: gray
+
+}

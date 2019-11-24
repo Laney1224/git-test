@@ -1,0 +1,13 @@
+/* pages/yell/yell.wxss */
+.key{width:100rpx;
+height: 100rpx;
+margin-left: 320rpx;
+margin-top: 40rpx
+}
+.input{
+  vborder-radius: 30px;
+margin-left: 15px;
+margin-right: 15px;
+margin-top: 15px;
+border: 2px solid rgb(127,168,209)
+}

@@ -1,0 +1,25 @@
+<!--pages/great/great.wxml-->
+<view>
+<image src="2.png" class="g"></image>
+
+</view>
+<input placeholder="请输入手机号码" maxlength="11" type="tel"
+class="input">
+
+</input>
+<input placeholder="验证码" type="number" class="input"></input>
+<button type="primary" size="mini" class="v">获取验证码</button>
+<view class="recommend">
+<text class="recommend-title">第三方账号登录</text>
+</view>
+<view>
+<image src="wechat.png" class="wechat" bindtap="wechat"></image>
+<image src="qq.png" class="qq" bindtap="qq"></image>
+<image src="facebook.png" class="facebook"></image>
+<image src="weibo.png" class="weibo"> </image>
+</view>
+
+
+
+
+

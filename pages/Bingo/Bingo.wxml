@@ -1,0 +1,14 @@
+<!--pages/Bingo/Bingo.wxml-->
+<view>
+<image src="8.jpg" class="f"></image>
+</view>
+
+<input class="input" placeholder="请输入账号" type="number" style="border:1px,solid"></input>
+
+<input class="input" placeholder="请输入密码" type="password"></input>
+<checkbox class="e"  color="#236B8E">记住账号</checkbox>
+<checkbox class="i" color="#236B8E">记住密码</checkbox>
+<button class="a" type="primary" style="margin-left:20rpx;margin-right:20rpx;margin-top:50rpx;border-radius:40rpx"
+bindtap="goto">登录</button>
+<text bindtap="ican" class="w">新用户注册</text>
+<text bindtap="yes" class="yes">忘记密码？</text>

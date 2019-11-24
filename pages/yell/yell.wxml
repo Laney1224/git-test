@@ -1,0 +1,14 @@
+<!--pages/yell/yell.wxml-->
+<view>
+<image src="找回密码.png" class="key"></image>
+
+</view>
+
+<input placeholder="请输入手机号码" type="tel" class="input"></input>
+
+<input placeholder="重置密码" type="password" class="input"></input>
+<input placeholder="再次确认密码" type="password"
+class="input"></input>
+
+<button type="primary" style="margin-left:20rpx;margin-right:20rpx;margin-top:50rpx;border-radius:40rpx" bindtap="tijiao">提交</button>
+<button type="primary" style="margin-top:70rpx;margin-left:450rpx" size="mini">获取验证码</button>

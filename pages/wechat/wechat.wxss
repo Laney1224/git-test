@@ -1,0 +1,29 @@
+/* pages/wechat/wechat.wxss */
+.logo{
+width: 250rpx;
+height: 250rpx;
+border-radius: 50%;
+justify-content: center;
+margin-left: 200rpx
+}
+.wechat{margin: 50rpx
+}
+.line{width: 800rpx;
+height: 2rpx;
+background-color: rgba(128, 128, 128, 0.699);
+margin-top: 40rpx
+}
+.denglu{
+  font-size: 35rpx;
+  justify-content: center;
+  display: flex;
+  margin-top: 15rpx
+}
+.ni{
+  font-size: 30rpx;
+  justify-content: center;
+  display: flex;
+  margin-top: 25rpx;
+  color: gray
+
+}

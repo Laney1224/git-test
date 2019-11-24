@@ -1,0 +1,10 @@
+<!--pages/wechat/wechat.wxml-->
+<view class="wechat">
+<image src="8.jpg" class="logo"></image>
+
+</view>
+<view class="line"></view>
+<text class="denglu">登录后应用将获得以下权限</text>
+<text class="ni">获得你的公开信息（昵称、头像等）</text>
+<button  type="primary" style="margin-left:20rpx;margin-right:20rpx;margin-top:50rpx;border-radius:40rpx" bindtap="button">确认登录</button>
+

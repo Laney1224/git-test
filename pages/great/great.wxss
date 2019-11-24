@@ -1,0 +1,62 @@
+/* pages/great/great.wxss */
+.g{width:200rpx;
+height: 200rpx;
+margin-left: 280rpx;
+margin-top: 80rpx
+}
+.v{margin-left: 500rpx;
+marker-top: 10px
+
+
+}
+.input{border:2px  solid rgb(127,168,209);
+border-radius:30px;
+margin-left: 15px;
+margin-right: 15px;
+margin-top: 15px  
+}
+.recommend{
+text-align: center;
+height: 50rpx;
+margin-top: 10rpx;
+}
+.recommend-title{
+  display: table;
+  width: 100%;
+  line-height: 50rpx;
+  white-space: nowrap;
+  border-spacing: 2rem 0;
+  font-size: 30rpx;
+  color: gray;
+  margin-top: 250rpx
+
+}
+.recommend-title::before,.recommend-title::after{
+display:table-cell;
+content:"";
+width:50%;
+background: linear-gradient(#eee,#eee)repeat-x center;
+background-size: 0.1rem 0.1rem;
+}
+
+.wechat{width: 80rpx;
+height: 80rpx;
+margin-left:57rpx;
+margin-top: 14rpx
+}
+.qq{width: 80rpx;
+height: 80rpx;
+margin-left: 47rpx;
+margin-top: 14rpx
+}
+.facebook{width: 80rpx;
+height: 80rpx;
+margin-left: 104rpx;
+margin-top: 14rpx
+}
+.weibo{width: 80rpx;
+height: 80rpx;
+margin-left: 120rpx;
+margin-top: 14rpx
+
+}

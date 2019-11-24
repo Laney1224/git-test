@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/Bingo/Bingo",
+    "pages/great/great",
+    "pages/well/well",
+    "pages/yell/yell",
+    "pages/wechat/wechat",
+    "pages/qq/qq",
+    "pages/index/index",
+    "pages/logs/logs"
+
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#236B8E",
+    "navigationBarTitleText": "小睡眠",
+    "navigationBarTextStyle": "black"
+  },
+
+  "sitemapLocation":"sitemap.json"
+}

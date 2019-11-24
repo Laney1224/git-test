@@ -1,0 +1,6 @@
+<!--pages/well/well.wxml-->
+<view>
+<image class="w" src="身份认证.png"></image>
+</view>
+
+<text class="t">欢迎回来</text>

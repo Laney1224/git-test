@@ -1,0 +1,14 @@
+<!--pages/qq/qq.wxml-->
+<view class="qq">
+<image src="8.jpg" class="logo"></image>
+</view>
+<text class="nana">使用QQ账号授权并登录</text>
+<view class="haha">
+<text>访问你的详细资料</text>
+
+</view>
+<text class="haha">访问你的基础资料</text>
+<view>
+<text class="lala">关注该网站认证空间</text>
+</view>
+<button bindtap="ee" type="primary" style="margin-left:20rpx;margin-right:20rpx;margin-top:50rpx;border-radius:40rpx">授权并登录</button>

@@ -1,0 +1,8 @@
+/* pages/well/well.wxss */
+.w{width: 200rpx;
+height: 200rpx;
+margin: 280rpx;
+}
+.t{margin-top:100rpx;
+margin-left: 300rpx
+}
